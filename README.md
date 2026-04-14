@@ -126,7 +126,7 @@ Study of insurance transaction growth and regional distribution.
 4. Run data extraction and loading scripts  
 5. Launch the Streamlit dashboard using:
    ```bash
-   streamlit run app.py
+   streamlit run Streamlit_app/app.py
 
 ## 📄 Project Documentation
 
