@@ -26,6 +26,8 @@ The objective is to understand how digital payments are evolving and provide dat
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 PhonePe-Data-Analysis/
 │
 ├── Output/
@@ -40,7 +42,7 @@ PhonePe-Data-Analysis/
 │   └── top_user.csv
 │
 ├── Pulse/
-│   └── data/  (Raw PhonePe Pulse dataset)
+│   └── data/ (Raw PhonePe Pulse dataset)
 │
 ├── Scripts/
 │   ├── 01_agg_transaction.py
@@ -61,10 +63,11 @@ PhonePe-Data-Analysis/
 ├── Streamlit_app/
 │   └── app.py (Main Dashboard Application)
 │
+├── Final PhonePe Project Document.pdf
+├── PhonePe_Project_Presentation.pptx
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
 
 ---
 
@@ -125,3 +128,7 @@ Study of insurance transaction growth and regional distribution.
    ```bash
    streamlit run app.py
 
+## 📄 Project Documentation
+
+- 📘 Project Report: Final_PhonePe_Project_Document.pdf  
+- 📊 Presentation: PhonePe_Project_Presentation.pptx
